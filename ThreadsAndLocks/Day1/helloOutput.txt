@@ -1,0 +1,150 @@
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
+Hello from new thread
+Hello from main thread
+---------
